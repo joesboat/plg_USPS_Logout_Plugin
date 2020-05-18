@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="system">
+	<name>System - USPS Logout</name>
+	<author>Joseph Gibson</author>
+	<creationDate>April 2009</creationDate>
+	<copyright>Copyright (C) 2015 Joseph Gibson. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>jgibson@usps.org</authorEmail>
+	<authorUrl>www.usps.org</authorUrl>
+	<version>1.0.0</version>
+	<description>PLG_SYSTEM_uspslogout_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="uspslogout">uspslogout.php</filename>
+		<filename>index.html</filename>
+	</files>
+</extension>
